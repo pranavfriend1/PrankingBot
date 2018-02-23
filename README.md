@@ -1,0 +1,2 @@
+# PrankingBot
+bot for discord
